@@ -1,4 +1,4 @@
-# Project 5: A/B Testing - Website Conversion Analysis
+# A/B Testing - Website Conversion Analysis
 
 ## What this project does
 A company tested a NEW landing page against their OLD landing page,
